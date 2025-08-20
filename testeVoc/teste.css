@@ -1,0 +1,50 @@
+.fundoPorc{
+  width: 100%;
+  background-color: #ddd;
+}
+
+.barraPorc {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+    #exatas {
+    width: 0%;
+    background-color: #0468aa;
+}
+    #artes {
+    width: 0%;
+    background-color: #ff9100;
+}
+    #saude {
+    width: 0%;
+    background-color: #9a01b9e3;
+}
+    #biologia {
+    width: 0%;
+    background-color: #00b12c;
+}
+    #negócios {
+    width: 0%;
+    background-color: #aa0404;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #8080e4;
+  color: white;
+  text-align: justify;
+  margin: 50px;
+}
+
+header {
+  background-color: #2525a7;
+  color: white;
+  text-align: center;
+}
